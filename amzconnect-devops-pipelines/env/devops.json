@@ -1,7 +1,7 @@
 {
     "env": "devops",
     "account": "908027421385",
-    "region": ["us-east-1"],
+    "region": "us-east-1",
     "codestarArn": "arn:aws:codeconnections:us-east-1:908027421385:connection/ee47ec64-54f4-4a2b-8a67-ea8b737137b6",
     "repo": "amazon-connect-cicd-workshop",
     "owner": "jawslab",
