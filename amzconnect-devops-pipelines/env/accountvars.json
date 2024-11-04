@@ -4,16 +4,24 @@
         "env": "dev",
         "branch": "develop",
         "enabled": true,
-        "account": "857874443368",
-        "region": ["ca-central-1"],
+        "account": "908027421385",
+        "region": ["us-east-1"],
+        "app": "ACME"
+    },
+    {
+        "env": "staging",
+        "branch": "staging",
+        "enabled": true,
+        "account": "908027421385",
+        "region": ["us-east-1"],
         "app": "ACME"
     },
     {
         "env": "prod",
         "branch": "main",
         "enabled": true,
-        "account": "803291015988",
-        "region": ["ca-central-1"],
+        "account": "908027421385",
+        "region": ["us-east-1"],
         "app": "ACME"
     }]
 }
